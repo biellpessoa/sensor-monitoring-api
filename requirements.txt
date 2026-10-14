@@ -1,0 +1,6 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+requests>=2.31
+streamlit>=1.50
+pandas>=2.0
+plotly>=5.20
