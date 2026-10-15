@@ -91,7 +91,7 @@ Python **3.10+** e os pacotes do `requirements.txt`:
 
 ```bash
 # 1. clonar e entrar na pasta
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/biellpessoa/sensor-monitoring-api
 cd sensor-monitoring-api
 
 # 2. (opcional) ambiente virtual
@@ -133,11 +133,6 @@ curl -H "X-Session-Id: teste-01" -H "X-Feature: curl" http://127.0.0.1:8000/v1/s
 
 Detalhamento completo (baselines, visualizações e planos de ação) no documento da disciplina de Governança em IA.
 
-## 🚫 Fora do escopo deste checkpoint
-
-- Autenticação/autorização (Sprint 4).
-- Providers de Equipamentos e Plantas (Sprint 4).
-
 ## 🎥 Vídeo
 
-Link do vídeo de demonstração: `<inserir link>`
+Link do vídeo de demonstração: `https://youtu.be/ns02RFdIo3w`
